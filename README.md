@@ -1,14 +1,14 @@
 
 ## Getting started
 
-After cloning the repo, you need to navigate to the `app` folder and create `.env` file. In your .env file you need to have following variables: 
+After cloning the repo, you need to navigate to the root folder and create `.env` file. In your .env file you need to have following variables: 
 
 REACT_APP_API_BASE_URL=https://api.themoviedb.org/3/
 
 REACT_APP_TOKEN = `please ask for the token`
 
 
-After that run the following commands from the app directory:
+After that run the following commands from the root:
 
 `npm install`
 
