@@ -1,0 +1,4 @@
+module.exports = {
+    SET_MOVIES_LIST: "SET_MOVIES_LIST",
+    SET_NO_RESULT: "SET_NO_RESULT"
+}
